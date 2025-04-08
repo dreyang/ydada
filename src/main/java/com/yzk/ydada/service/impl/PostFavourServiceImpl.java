@@ -30,7 +30,7 @@ public class PostFavourServiceImpl extends ServiceImpl<PostFavourMapper, PostFav
 
     @Resource
     private PostService postService;
-    private PostService test111;
+    private PostService test1;
     /**
      * 帖子收藏
      *
