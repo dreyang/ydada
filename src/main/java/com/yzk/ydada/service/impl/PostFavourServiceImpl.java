@@ -21,7 +21,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 /**
  * 帖子收藏服务实现
- *
+ *测试1111可忽略
  
  */
 @Service
@@ -30,7 +30,7 @@ public class PostFavourServiceImpl extends ServiceImpl<PostFavourMapper, PostFav
 
     @Resource
     private PostService postService;
-
+    private PostService test111;
     /**
      * 帖子收藏
      *
